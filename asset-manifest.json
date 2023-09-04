@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToggleTheme/static/css/main.ca1f9629.css",
+    "main.js": "/ToggleTheme/static/js/main.06850437.js",
+    "index.html": "/ToggleTheme/index.html",
+    "main.ca1f9629.css.map": "/ToggleTheme/static/css/main.ca1f9629.css.map",
+    "main.06850437.js.map": "/ToggleTheme/static/js/main.06850437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1f9629.css",
+    "static/js/main.06850437.js"
+  ]
+}
